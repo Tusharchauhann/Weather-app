@@ -1,6 +1,6 @@
 # Weather-app
 
-The Responsive Weather App is a web application that provides real-time weather information for any city in the world. Built using HTML, CSS, and JavaScript, this app fetches data from a weather API and displays it in a user-friendly and responsive interface.
+A Responsive Weather App which provides real-time weather information for any city in the world. Built using HTML, CSS, and JavaScript, this app fetches data from a weather API and displays it in a user-friendly and responsive interface.
 
 ## Features
 - Real-time weather data for any location
