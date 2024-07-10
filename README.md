@@ -3,12 +3,18 @@ A Responsive Weather App which provides real-time weather information for any ci
 
 Features
 Real-time weather data for any location
+
 Responsive design for seamless use on both desktop and mobile devices
+
 Displays current temperature, weather conditions, humidity, wind speed, and more
+
 Dynamic background images based on weather conditions.
 
 Technologies Used
 HTML5
+
 CSS3
+
 JavaScript (ES6+)
+
 OpenWeatherMap API
